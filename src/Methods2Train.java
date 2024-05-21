@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Main {
+public class Methods2Train {
 
     public static int sum(int ...nums){
         int result = 0;
